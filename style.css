@@ -1,3 +1,18 @@
 body{
-    background-color: blanchedalmond; 
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 12px;
 }
+/* menu-list-items*/
+ul {
+    background-color: #424040;
+}
+li {
+    font-weight: bold;
+    color: aliceblue;
+    display: inline-block;
+    padding: 5px;
+    margin: 2px;
+}
+
